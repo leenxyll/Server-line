@@ -1,0 +1,5 @@
+node_modules/
+.env
+chatbot/leenaa-udsd-1f282172e2de.json
+config/
+ngrok.exe
